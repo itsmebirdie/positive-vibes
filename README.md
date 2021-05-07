@@ -18,4 +18,4 @@
 
 *Made with javascript and :heart: in India* 
 
-**Developers : [@ujjwal-kr](https://github.com/ujjwal-kr) [@kaaarigar](https://github.com/kaaarigar)**
+**Developers : [@ujjwal-kr](https://github.com/ujjwal-kr) [@kaaarigar](https://github.com/kaaarigar) [@itsmebirdie](https://github.com/itsmebirdie)**
